@@ -1,5 +1,5 @@
-## Lab 1: Mariokart Starter Project
 
-### Overview
 
-This is the starter project for iOS 101 Lab 1 Mario Kart
+
+https://github.com/RushdaMansuri/Mariokart-Swift/assets/101844644/01e46e20-7a61-4eb7-ad0f-bff64043213e
+
